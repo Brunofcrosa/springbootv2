@@ -4,7 +4,7 @@ Este projeto implementa o back-end pedido no simulado: uma API REST para cadastr
 
 Ele foi organizado como material de estudo. Em outro simulado, você pode trocar `Sala` pela entidade pedida e repetir a mesma arquitetura, adaptando campos, migrations, endpoints e regras.
 
-O código-fonte está comentado com Javadocs e comentários explicativos. Leia primeiro o `Controller`, depois o `Service`, o `Repository`, a entidade e as migrations. Essa ordem acompanha o caminho de uma requisição.
+O README explica a responsabilidade de cada camada e apresenta uma ordem recomendada para estudar o projeto: `Controller`, `Service`, `Repository`, entidade e migrations.
 
 > **Sobre `SalaController`**
 >
